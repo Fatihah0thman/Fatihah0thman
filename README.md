@@ -3,7 +3,6 @@
   <img src="gmbr.JPG" width="200"/>
 </p>
 
-![Profile Picture](https://github.com/Fatihah0thman/Fatihah0thman/blob/65fb45354f917d083525ab9f9b8bfc4f5462e6b2/gmbr.JPG)
 ## Profile 
 First Year Data Engineering Student at Universiti Teknologi Malaysia (UTM) 
 
