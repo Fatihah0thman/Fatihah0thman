@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile Picture](profile.jpg)
+![Profile Picture]([profile.jpg](https://github.com/Fatihah0thman/Fatihah0/blob/2e0869bf6c31da1b1ef927c09f13fbc7289fcdfd/gmbr.JPG))
 
 ## Profile 
 First Year Data Engineering Student at Universiti Teknologi Malaysia (UTM) 
