@@ -1,4 +1,11 @@
 ## Hi there 👋
+![Profile Picture](profile.jpg)
+
+## Profile 
+First Year Data Engineering Student at Universiti Teknologi Malaysia (UTM) 
+
+## Summary
+I'm a first-year Data Engineering student at UTM. I’m learning programming, problem-solving, and basic data concepts. I’m passionate about improving my technical skills and gaining hands-on experience through projects and coursework.
 
 ## 👩‍🎓 Core Information
 
