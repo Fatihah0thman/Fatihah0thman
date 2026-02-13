@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello ! 👋
 <p align="center">
   <img src="gmbr.JPG" width="200"/>
 </p>
@@ -50,7 +50,8 @@ Bachelor of Computer Science (Data Engineering) - Year 1
 ### 📚 Courses
 - Programming Technique I
 - Discrete Structure  
-- Digital Logic  
+- Digital Logic
+- Technology and Information System 
 
 ---
 
